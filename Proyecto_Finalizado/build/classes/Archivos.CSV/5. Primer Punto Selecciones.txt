@@ -1,0 +1,8 @@
+
+32,Europa-14,23,Argentina-Colombia
+,Asia-3
+,Africa-6
+,America del Sur-5
+,America del Norte-1
+,America Central-2
+,Oceanía-1
